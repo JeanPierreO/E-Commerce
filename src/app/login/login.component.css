@@ -1,0 +1,85 @@
+.content {	
+    height: 365px;	
+    margin-top: 82px;
+    margin-bottom: 76px;
+}
+
+
+.fa-lock{
+    line-height: 1.7;
+    padding-right: 15px;
+}
+
+.usernameForm, .passwordForm{
+    margin-top: 31px;   
+    color: #444444;	
+    font-family: Raleway;	
+    font-size: 13px;	
+    font-weight: bold;
+}
+
+.h3{
+	color: #444444;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: 600;
+}
+
+.usernameInput, .passwordInput {
+	height: 37px;
+	width: 431px;
+	border: 2px solid #DDDDDD;
+	background-color: #FFFFFF;  
+}
+
+.login{
+    margin-top: 27px;
+    margin-left: 3px;
+}
+.loginButton {	
+    height: 37px;
+	width: 91px;
+    background-color: #333333;
+    border: 0px;
+    
+}
+
+.loginText {
+	height: 13px;
+	width: 57px;
+	color: #FFFFFF;
+	font-family: Raleway;
+	font-size: 18px;
+	font-weight: bold;
+}
+.forgotPassword {
+	height: 12px;
+	width: 119px;
+	color: #444444;
+	font-family: Lato;
+    font-size: 14px;
+    line-height: 3.5;
+    
+    
+}
+
+.loginHr{
+    height: 1px;	
+    width: 430px;	
+    background-color: #EEEEEE;
+    margin-top: 40px;
+}
+
+.registerAccount{
+    font-size:23px;
+}
+.user, .lock{	
+    font-size: 14px; 
+    
+   
+}
+
+.user{
+    line-height: 2;
+     margin-right: 10px;
+}

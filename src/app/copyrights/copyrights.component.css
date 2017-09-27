@@ -1,0 +1,23 @@
+.container-fluid{
+	height: 142px;
+	background-color: #222222;
+}
+
+.copyright{
+    padding: 45px;
+    line-height: 0.2;
+    
+}
+.copyright>p{
+    height: 12px;	width: 330px;	color: #444444;	font-family: Lato;	font-size: 14px;
+}
+
+.socialMediaRow{
+     float:right;
+     padding: 32px;
+}
+
+p>i{
+    margin: 10px;
+    color: #444444;
+}

@@ -1,0 +1,46 @@
+.navbar{
+    height:100px;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+
+.navbar-brand{
+    height: 42px;	
+    width: 207px;	
+    color: #333333;	
+    font-family: "Open Sans";	
+    font-size: 42px;	
+    font-weight: bold;	
+    line-height: 0.7;
+}
+
+.divider{
+    border: 1px solid black;
+    opacity: 0.1;
+    height: 100px;
+}
+
+
+.navbar-nav{
+    margin-bottom: 50px;
+}
+
+.nav-item {
+    color: #444444;	
+    font-family: Raleway;	
+    font-size: 13px;	
+    font-weight: bold;
+}
+
+.navIcon{
+    margin-top: 43.5px;
+    font-size: 13px;
+    line-height: 2;
+    color: #444444;	
+    font-weight: bold;
+}
+
+.active{
+    color:#1ABC9C !important;
+}

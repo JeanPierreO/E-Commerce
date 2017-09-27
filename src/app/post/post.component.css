@@ -1,0 +1,26 @@
+.postText {
+  height: 32px;
+  width: 202px;
+  color: #cccccc;
+  font-family: Raleway;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+small {
+  color: #888888;
+  font-family: Crete;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.postDivider {
+  margin:0px;
+  position: relative;
+  width: 100%;
+  opacity: 0.1;
+  border: 1px dashed #ffffff;
+  
+
+}
+
